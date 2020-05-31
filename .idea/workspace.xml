@@ -1,11 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9849772c-e559-4bd7-b970-98573c06e986" name="Default Changelist" comment="学习React的demo">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/combination/ColorBorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/combination/WelcomeDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/combination/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/condiction-render/ShowGender.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/event-handle/convert-param/delete-row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/event-handle/logging-button/LoggingButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/event-handle/toggle/Toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/form/EssayTextarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/form/FavorSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/form/NameForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/list-render/todo-list/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/network/config/NetworkRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/network/test/NetworkRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/network/util/ApiConst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/render-component/example/Comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/render-component/example/common/Text/Text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/render-component/example/userinfo/UserInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/render-component/example/userinfo/avatar/Avatar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/render-component/render-component-class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/render-component/render-component-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/router/config/RouterConst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/router/config/routers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/router/test/RouterConfigExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/router/test/RouterView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/router/test/TestRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/router/test/TestRouterView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/state-and-life-cycle/clock/Clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/state-lifting/Calculator-backup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/state-lifting/Calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/state-lifting/TemperatureInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study-react-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cU1CKNuDLwGVoNRj7373gd2ydJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="ts.external.directory.path" value="D:\program files\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\MyCode\Web\Html-CSS-JavaScript\React\StudyReact\demo\src\learn\state-lifting" />
+      <recent name="F:\Code\MyCode\Web\Html-CSS-JavaScript\React\StudyReact\demo\src\learn\render-component" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\MyCode\Web\Html-CSS-JavaScript\React\StudyReact\demo\src\learn\render-component\example\userinfo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9849772c-e559-4bd7-b970-98573c06e986" name="Default Changelist" comment="" />
+      <created>1590568228187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590568228187</updated>
+      <workItem from="1590568231409" duration="11685000" />
+      <workItem from="1590653542954" duration="4044000" />
+      <workItem from="1590715481269" duration="6716000" />
+      <workItem from="1590805702155" duration="6530000" />
+      <workItem from="1590852493235" duration="3787000" />
+      <workItem from="1590878251618" duration="12423000" />
+      <workItem from="1590892772316" duration="588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590807805046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590807805046" />
+    <state x="160" y="0" key="CommitChangelistDialog2" timestamp="1590892833247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="160" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590892833247" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590726599839">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590726599839" />
+    <state x="464" y="208" width="352" height="338" key="Github.ShareDialog" timestamp="1590893919631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="464" y="208" width="352" height="338" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1590893919631" />
+    <state width="1224" height="273" key="GridCell.Tab.0.bottom" timestamp="1590892691641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1224" height="273" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590892691641" />
+    <state width="1224" height="273" key="GridCell.Tab.0.center" timestamp="1590892691641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1224" height="273" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590892691641" />
+    <state width="1224" height="273" key="GridCell.Tab.0.left" timestamp="1590892691640">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1224" height="273" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590892691640" />
+    <state width="1224" height="273" key="GridCell.Tab.0.right" timestamp="1590892691641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1224" height="273" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590892691641" />
+    <state x="34" y="0" key="SettingsEditor" timestamp="1590893878220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="34" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590893878220" />
   </component>
 </project>
